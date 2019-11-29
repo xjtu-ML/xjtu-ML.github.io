@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# 欢迎访问西安交通大学机器学习课程主页
 
 You can use the [editor on GitHub](https://github.com/xjtu-ML/xjtu-ML.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
