@@ -1,6 +1,6 @@
 ---
 layout:page
-permalink:/chapter01/
+permalink: /chapter01/
 ---
 
 ## 第一章 决策树
