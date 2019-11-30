@@ -1,3 +1,8 @@
+---
+layout:page
+permalink:/chapter01/
+---
+
 ## 第一章 决策树
 
 内容介绍：
