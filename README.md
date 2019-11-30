@@ -18,6 +18,7 @@
 4-1  **[支持向量机](/chapter01)**<br>
 4-2  **[AdaBoost](/chapter01)**<br>
 4-3  **[神经网络](/chapter01)**<br>
+### 课程延伸                                                                                            **[更多>](/chapter01)**
 #### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
