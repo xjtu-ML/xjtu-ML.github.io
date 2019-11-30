@@ -1,9 +1,6 @@
 # 欢迎访问西安交通大学机器学习课程主页
-
-You can use the [editor on GitHub](https://github.com/xjtu-ML/xjtu-ML.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 ### 第一章 课程简介 
-##### 1-1  **[课程介绍](/chapter01)**
+ 1-1  **[课程介绍](/chapter01)**
 ##### 1-2  **[决策树](/chapter01)**
 ##### 1-3  **[统计基础 MLE & MAP](/chapter01)** 
 ##### 1-4  **[朴素Bayes](/chapter01)**
