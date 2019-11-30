@@ -7,7 +7,7 @@
 ### 第二章 聚类方法
 2-1  **[k-均值](/chapter01)**<br>
 2-2  **[混合高斯 & EM](/chapter01)**<br>
-2-3  **[Meanshift & Space Clustering](/chapter01)**<br>
+2-3  **[Meanshift & Scale Space Clustering](/chapter01)**<br>
 2-3  **[谱聚类](/chapter01)**<br>
 ### 第三章 降维方法
 3-1  **[PCA & SVD](/chapter01)**<br>
@@ -18,7 +18,7 @@
 4-1  **[支持向量机](/chapter01)**<br>
 4-2  **[AdaBoost](/chapter01)**<br>
 4-3  **[神经网络](/chapter01)**<br>
-### 课程延伸                                                                                            **[更多>](/chapter01)**
+### 课程延伸                                                                                  **[查看全部>](/chapter01)**
 #### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
