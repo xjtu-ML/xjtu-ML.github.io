@@ -8,6 +8,16 @@
 2-1  **[k-均值](/chapter01)**<br>
 2-2  **[混合高斯 & EM](/chapter01)**<br>
 2-3  **[Meanshift & Space Clustering](/chapter01)**<br>
+2-3  **[谱聚类](/chapter01)**<br>
+### 第三章 降维方法
+3-1  **[PCA & SVD](/chapter01)**<br>
+3-2  **[低秩矩阵分解 & 误差建模](/chapter01)**<br>
+3-3  **[流形学习 & 变分自编码器](/chapter01)**<br>
+3-4  **[正则化](/chapter01)**<br>
+### 第四章 有监督学习
+4-1  **[支持向量机](/chapter01)**<br>
+4-2  **[AdaBoost](/chapter01)**<br>
+4-3  **[神经网络](/chapter01)**<br>
 #### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
