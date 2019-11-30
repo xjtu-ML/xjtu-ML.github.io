@@ -1,6 +1,6 @@
 ---
 layout:page
-permalink: /chapter01/
+permalink: /chapter1-1/
 ---
 
 ## 课程介绍
