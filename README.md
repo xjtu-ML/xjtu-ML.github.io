@@ -1,9 +1,9 @@
 # 欢迎访问西安交通大学机器学习课程主页
 ### 第一章 课程简介 
-1-1  **[课程介绍](/chapter01)**<br>
-1-2  **[决策树](/chapter01)**<br>
-1-3  **[统计基础 MLE & MAP](/chapter01)** <br>
-1-4  **[朴素Bayes](/chapter01)**<br>
+1-1  **[课程介绍](/chapter1/chapter1-1)**<br>
+1-2  **[决策树](/chapter1/chapter1-2)**<br>
+1-3  **[统计基础 MLE & MAP](/chapter1/chapter1-3)** <br>
+1-4  **[朴素Bayes](/chapter1/chapter1-4)**<br>
 ### 第二章 聚类方法
 2-1  **[k-均值](/chapter01)**<br>
 2-2  **[混合高斯 & EM](/chapter01)**<br>
