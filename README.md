@@ -22,4 +22,5 @@
 
 ### 课程支持
 有任何问题可以咨询本课程助教及老师<br>
-任课教师Email：dymeng@mail.xjtu.edu.cn
+任课教师Email：dymeng@mail.xjtu.edu.cn<br>
+教师主页:[http://dymeng.gr.xjtu.edu.cn](http://dymeng.gr.xjtu.edu.cn)
