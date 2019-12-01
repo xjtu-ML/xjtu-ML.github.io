@@ -5,48 +5,21 @@
 1-3  **[统计基础 MLE & MAP](/chapter1/chapter1-3)** <br>
 1-4  **[朴素Bayes](/chapter1/chapter1-4)**<br>
 ### 第二章 聚类方法
-2-1  **[k-均值](/chapter01)**<br>
-2-2  **[混合高斯 & EM](/chapter01)**<br>
-2-3  **[Meanshift & Scale Space Clustering](/chapter01)**<br>
-2-3  **[谱聚类](/chapter01)**<br>
+2-1  **[k-means](/chapter2/chapter2-1)**<br>
+2-2  **[GMM & EM](/chapter2/chapter2-2)**<br>
+2-3  **[Meanshift & Scale Space Clustering](/chapter2/chapter2-3)**<br>
+2-3  **[谱聚类](/chapter2/chapter2-4)**<br>
 ### 第三章 降维方法
-3-1  **[PCA & SVD](/chapter01)**<br>
-3-2  **[低秩矩阵分解 & 误差建模](/chapter01)**<br>
-3-3  **[流形学习 & 变分自编码器](/chapter01)**<br>
-3-4  **[正则化](/chapter01)**<br>
+3-1  **[PCA & SVD](/chapter3/chapter3-1)**<br>
+3-2  **[低秩矩阵分解 & 误差建模](/chapter3/chapter3-2)**<br>
+3-3  **[流形学习 & 变分自编码器](/chapter3/chapter3-3)**<br>
+3-4  **[正则化](/chapter3/chapter3-4)**<br>
 ### 第四章 有监督学习
-4-1  **[支持向量机](/chapter01)**<br>
-4-2  **[AdaBoost](/chapter01)**<br>
-4-3  **[神经网络](/chapter01)**<br>
+4-1  **[支持向量机](/chapter4/chapter4-1)**<br>
+4-2  **[AdaBoost](/chapter4/chapter4-2)**<br>
+4-3  **[神经网络](/chapter4/chapter4-3)**<br>
 ### 课程延伸                                                                                  **[查看全部>](/chapter01)**
-#### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xjtu-ML/xjtu-ML.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 课程支持
+有任何问题可以咨询本课程助教及老师
+任课教师Email：dymeng@mail.xjtu.edu.cn
