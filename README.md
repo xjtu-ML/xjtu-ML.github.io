@@ -1,4 +1,5 @@
 # 欢迎访问西安交通大学机器学习课程主页
+本课程[GitHub repository](https://github.com/xjtu-ML/xjtu-ML.github.io)
 ### 第一章 课程简介 
 1-1  **[课程介绍](/chapter1/chapter1-1)**<br>
 1-2  **[决策树](/chapter1/chapter1-2)**<br>
