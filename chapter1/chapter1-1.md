@@ -5,7 +5,6 @@ permalink: /chapter1-1/
 
 ## 课程介绍
 (待补充)<br>
-本节PPT下载 [download](https://share.weiyun.com/5ak3YY5)
 #### 相关参考文献
 - [1] Pattern Recognition and Machine Learning
 - [2] High-Dimensional Data Analysis:The Curses and Blessings of Dimensionality,David L. Donoho,ICM 2000 [download](https://share.weiyun.com/5bD9BJb)
