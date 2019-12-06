@@ -19,9 +19,10 @@
 4-1  **[支持向量机](/chapter4/chapter4-1)**<br>
 4-2  **[AdaBoost](/chapter4/chapter4-2)**<br>
 4-3  **[神经网络](/chapter4/chapter4-3)**<br>
-### 课程延伸                                                                                  **[查看全部>](/chapter01)**
+### 课程延伸                                                                                  **[查看全部>]()**
 
 ### 课程支持
 有任何问题可以咨询本课程助教及老师<br>
 任课教师Email：dymeng@mail.xjtu.edu.cn<br>
-教师主页:[http://dymeng.gr.xjtu.edu.cn](http://dymeng.gr.xjtu.edu.cn)
+教师主页:[http://dymeng.gr.xjtu.edu.cn](http://dymeng.gr.xjtu.edu.cn)<br>
+主页及代码管理者邮箱：1007698544@qq.com
