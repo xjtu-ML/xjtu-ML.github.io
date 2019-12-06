@@ -5,7 +5,6 @@ permalink: /chapter1-2/
 
 ## 决策树
 (待补充)<br>
-本节PPT下载 [download](https://share.weiyun.com/5Pu06bD)
 ### 相关参考文献
 - [1] The Elements of Statistical Learning: Data Mining, Inference and Prediction. Hastie, Tibshirani, Friedman. Springer, 2008. 9.2 Tree-based Methods [download](https://share.weiyun.com/56tgGcm)
 - [2] Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?  Fernández-Delgado, Cernadas, Barro, Amorim; JMLR:3133−3181, 2014. [download](https://share.weiyun.com/5UqpeoE)
