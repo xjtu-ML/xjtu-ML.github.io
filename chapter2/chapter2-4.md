@@ -4,7 +4,6 @@ permalink: /chapter2-4/
 ---
 
 ## 谱聚类
-(待补充)<br>
 谱聚类(SpectralClustering)程序[git repo](https://github.com/xjtu-ML/xjtu-ML.github.io/tree/master/chapter2/SpectralClustering)
 #### 相关参考文献
 - [1] On Spectral Clustering: Analysis and an algorithm, Andrew Y. Ng, Michael Jordan, and Yair Weiss. InNIPS 14, 2002 [download](https://share.weiyun.com/5u4RvLc)
